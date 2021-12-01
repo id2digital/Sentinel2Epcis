@@ -13,6 +13,9 @@ Sentinel system consists of the following modules:
 - QS System.
 - MAED.
 - OnGuard.
--
+- Nex/OS ERP System EEB Edition.
+- Nex/OS ERP System DAB Edition.
+- Nex/OS Logistics.
+
 This system is the intellectual property of Nomisma Sistemas and is licensed. However the EPCIS protocol implementation code is under public license.
 
