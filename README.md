@@ -5,8 +5,8 @@ This project consists of the implementation of the EPCIS version 2 protocol in t
 Sentinel system consists of the following modules:
 
 - LABrys. Management of Physical Chemical and Microbiological Analysis.
-- LAB/Olive. Oil and residue analysis management system using NIR devices.
-- PGH Manager. Critical Points Self-Control and Control System. Version for commerce, hotels and restaurants.
+- LAB/Olive. Software for managing the analysis of olives and pomace (analisys of samples, incorporation of analytical values from near infrared spectroscopy equipment, issuance of reports and generation of alerts).
+- PGH Manager. 
 - PPR Manager. Implementation of the Critical Points Self-Control and Control System. Industry version.
 - Sentry. 
 
