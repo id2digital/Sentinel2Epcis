@@ -17,5 +17,6 @@ Sentinel system consists of the following modules:
 - Nex/OS ERP System DAB Edition.
 - Nex/OS Logistics.
 
-This system is the intellectual property of Nomisma Sistemas and is licensed. However the EPCIS protocol implementation code is under public license.
+This system is the intellectual property of Nomisma Sistemas and is licensed. Parts are the intellectual property of the University of Córdoba and Spanish Research Council (CSIC).
+However the EPCIS protocol implementation code is under public license.
 
