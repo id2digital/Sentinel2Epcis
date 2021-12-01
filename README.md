@@ -10,7 +10,7 @@ Sentinel system consists of the following modules:
 - PPR Manager. 
 - Sentry. Factory and portable automation system for IoT data capture integrated in Sentinel System.
 - ISO Manager /22000.
-- QS System.
+- QS System. Designer of Quality Systems Operating Procedures.
 - MAED.
 - OnGuard.
 - Nex/OS ERP System EEB Edition.
