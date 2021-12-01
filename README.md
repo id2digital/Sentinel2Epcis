@@ -5,7 +5,7 @@ This project consists of the implementation of the EPCIS version 2 protocol in t
 Sentinel system consists of the following modules:
 
 - LABrys. LABrys is a general purpose microbiological, chemical and physical analysis management program (analisys of samples, incorporation of analytical values from near infrared spectroscopy equipment, issuance of reports and generation of alerts).
-- LAB/Olive. Software for managing the analysis of olives and pomace (analisys of samples, incorporation of analytical values from near infrared spectroscopy equipment, issuance of reports and generation of alerts).
+- LAB/Olive. Software for managing the analysis of olives and pomace (analisys of samples, issuance of reports and generation of alerts).
 - PGH Manager. 
 - PPR Manager. 
 - Sentry. Factory and portable automation system for IoT data capture integrated in Sentinel System.
